@@ -21,7 +21,7 @@ const HeaderBody = () => {
       <div className={classes.root}>
         <section className={classes.content}>
           <h1>
-            Hi There <span className={classes.animate}>I'M Vinay Reddy</span>
+            Hi There <span className={classes.animate}>I'M Nehal Shaik</span>
           </h1>
           <div className={classes.para}>
             <p>

@@ -14,8 +14,8 @@ export const timelineElements = [
     description:
       "The Logistics Project developed using Material Ui, React, React-redux, @reduxjs/toolkit.",
     date: "2022",
-    link: "https://vr-logistics-project.web.app/login",
-    gitLink: "https://github.com/Vinay9720/Logistics_application/tree/main/src",
+    link: "",
+    gitLink: "",
     icon: <WorkOutlineOutlinedIcon sx={{ color: "#5ce1f2" }} />,
     message: "Desktop View is preffered",
   },
@@ -29,8 +29,8 @@ export const timelineElements = [
     description:
       "The E-commerce project using React,React-redux,@reduxjs/toolkit.",
     date: "2022",
-    link: "https://wines-project-5e933.web.app/",
-    gitLink: "https://github.com/Vinay9720/fetch_post/tree/vinay_contributions",
+    link: "",
+    gitLink: "",
     icon: <WorkOutlineOutlinedIcon sx={{ color: "#5ce1f2" }} />,
     message: "Desktop View is preffered",
   },
@@ -44,7 +44,7 @@ export const timelineElements = [
       "The Portfolio developed using the Materal Ui,Css Modules, & React.",
     date: "2022",
     icon: <WorkOutlineOutlinedIcon sx={{ color: "#5ce1f2" }} />,
-    gitLink: "https://github.com/Vinay9720/Portfolio/tree/main/src",
+    gitLink: "",
     gitButton: "Git",
   },
   // {

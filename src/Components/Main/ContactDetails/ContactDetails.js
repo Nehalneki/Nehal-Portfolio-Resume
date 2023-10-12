@@ -53,7 +53,7 @@ const ContactDetails = () => {
                       Call Me
                     </Button>
                   </a>
-                  <a href="mailto:mr.vinay9720@gmail.com" target="blank">
+                  <a href="mailto:mr.nekinehal@gmail.com" target="blank">
                     <Button
                       variant="outlined"
                       sx={{ width: "150px", height: "50px" }}

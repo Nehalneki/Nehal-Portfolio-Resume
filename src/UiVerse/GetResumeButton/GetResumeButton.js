@@ -1,10 +1,10 @@
 import React from "react";
 import classes from "./GetResumeButton.module.css";
-import vinay from "../../Assets/resume.pdf";
+import Nehal from "../../Assets/resume.pdf";
 
 const GetResumeButton = () => {
   return (
-    <a href={vinay} download={"Vinay Resume.pdf"}>
+    <a href={Nehal} download={"Nehal Resume.pdf"}>
       <button className={classes.button}>
         {" "}
         <span></span>
