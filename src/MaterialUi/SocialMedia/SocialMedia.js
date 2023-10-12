@@ -36,7 +36,7 @@ const SocialMedia = () => {
         aria-label="LinkedIn"
         size="large"
         onClick={() => {
-          window.open("https://www.linkedin.com/in/vinay-reddy-4141a5275/");
+          window.open("");
         }}
       >
         <LinkedInIcon fontSize="inherit" />
@@ -49,7 +49,7 @@ const SocialMedia = () => {
         aria-label="Git hub"
         size="large"
         onClick={() => {
-          window.open("https://github.com/Vinay9720/Portfolio.git");
+          window.open("");
         }}
       >
         <GitHubIcon fontSize="inherit" />
